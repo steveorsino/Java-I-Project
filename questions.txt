@@ -1,0 +1,63 @@
+If you were to look at a machine language program, you would see _________.
+a. Java source code
+b. a stream of binary numbers
+c. English words
+d. circuits
+b
+1
+This key word is used to declare a named constant.
+a. constant
+b. namedConstant
+c. final
+d. concrete
+c
+1
+You can use this class to display dialog boxes.
+a. JOptionPane
+b. BufferedReader
+c. InputStreamReader
+d. DialogBox
+a
+1
+The conditional operator takes this many operands.
+a. one
+b. two
+c. three
+d. four
+c
+2
+The if statement is an example of a __________.
+a. sequence structure
+b. decision structure
+c. pathway structure
+d. class structure
+b
+2
+This is an if statement that appears inside another if statement.
+a. nested if statement
+b. tiered if statement
+c. dislodged if statement
+d. structured if statement
+a
+3
+This determines whether two different String objects contain the same string.
+a. the == operator
+b. the = operator
+c. the equals method
+d. the stringCompare method
+c
+3
+This statement causes a method to end and sends a value back to the statement that called the method. 
+a. end 
+b. send 
+c. exit 
+d. return
+d
+4
+This search algorithm steps through an array, comparing each item with the search value.
+a. binary search
+b. sequential search
+c. selection search
+d. iterative search
+b
+5

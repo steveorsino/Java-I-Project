@@ -1,0 +1,3 @@
+Larry 8
+Moe 4
+Curly 3
